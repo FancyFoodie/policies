@@ -1,5 +1,6 @@
 Fancy Foodie Terms and Policies
 ============================
+[![Build Status](https://travis-ci.org/FancyFoodie/policies.svg?branch=master)](https://travis-ci.org/FancyFoodie/policies)
 
 This repository contains the various terms and policies used by [Fancy Foodie](https://www.fancy-foodie.com) providing a historical record of changes and planned future changes.
 
