@@ -1,11 +1,11 @@
-Pear Deck Terms and Policies
+Fancy Foodie Terms and Policies
 ============================
 
-This repository contains the various terms and policies used by [Pear Deck](https://www.peardeck.com) providing a historical record of changes and planned future changes.
+This repository contains the various terms and policies used by [Fancy Foodie](https://www.fancy-foodie.com) providing a historical record of changes and planned future changes.
 
-HOWTO: Open source your company's policies
+HOWTO: Open source your orgnization's policies
 ==========================================
-1. [Create your own repository](https://bitbucket.org/repo/create) named *policies* or [fork ours](https://bitbucket.org/peardeck/policies/fork).
+1. [Create your own repository](https://github.com/new) named *policies* or [fork ours](https://help.github.com/articles/fork-a-repo/).
 
 2. Add your current policies to the repository:
   - Include your Terms of Service, Terms of Use, Privacy Policy, and other policy documents that relate to schools, students, and teachers using your service.
@@ -18,4 +18,4 @@ HOWTO: Open source your company's policies
 Acknowledgements
 ================
 
-Thanks to [Clever](https://clever.com) and Bill Fitzgerald for getting us started on this. We're happy to join them in providing clear and transparent records of all of our policies.
+Thanks to [Pear Deck](https://peardeck.com), [Clever](https://clever.com) and Bill Fitzgerald for getting us started on this. We're happy to join them in providing clear and transparent records of all of our policies.

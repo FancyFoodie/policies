@@ -1,16 +1,16 @@
-# Pear Deck Privacy Policy
-*Last Modified: April 4, 2016*
+# Fancy Foodie Privacy Policy
+*Last Modified: November 5, 2016*
 
-This Privacy Policy explains how Pear Deck, Inc., ("**_we_**" or “**_Pear Deck_**”) use protect, and disclose the information we collect when you use the Pear Deck services (the “**_Services_**”) through our website [www.PearDeck.com](http://peardeck.com) (“**_Site_**”), applications on Devices (“**_Apps_**”), through APIs, and through third parties.  A “**_Device_**” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
+This Privacy Policy explains how Fancy Foodie, ("**_we_**" or “**_Fancy Foodie_**”) use protect, and disclose the information we collect when you use the Fancy Foodie services (the “**_Services_**”) through our website [www.fancy-foodie.com](https://fancy-foodie.com) (“**_Site_**”), applications on Devices (“**_Apps_**”), through APIs, and through third parties.  A “**_Device_**” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
 *Changes to this Privacy Policy*
 
-We manage changes to this Privacy Policy via [this public repository](https://github.com/peardeck/policies) hosted on GitHub.com. If we make a material change to this Privacy Policy with respect to how we collect and use your personal information, we will provide at least 30 days’ prior written notice to you by email to the email address specified in your account, if you have one, so that you have sufficient time to evaluate the change, and you can choose to opt-out by revoking Google Permission to your Pear Deck account before the change takes effect.  **IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.**
+We manage changes to this Privacy Policy via [this public repository](https://github.com/fancyfoodie/policies) hosted on GitHub.com. If we make a material change to this Privacy Policy with respect to how we collect and use your personal information, we will provide at least 30 days’ prior written notice to you by email to the email address specified in your account, if you have one, so that you have sufficient time to evaluate the change, and you can choose to opt-out by revoking Google Permission to your Fancy Foodie account before the change takes effect.  **IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.**
 
 
 ## THE INFORMATION WE COLLECT AND STORE
 
-Pear Deck may collect and store the following information when running our Services.
+Fancy Foodie may collect and store the following information when running our Services.
 
 ## Information You Provide
 
@@ -18,7 +18,7 @@ Depending on how you use the Services, you may be required to provide certain pe
 
 * Name
 
-* Google Account (Email address)
+* Email address
 
 * Username for social media accounts you wish to connect to your account
 
@@ -26,11 +26,11 @@ Depending on how you use the Services, you may be required to provide certain pe
 
 You may choose not to provide your Personal Information; however, if you do not provide your Personal Information you may not be able to use all the functions offered by the Services.
 
-For questions about your Personal Information on our Services, please contact info@PearDeck.com.
+For questions about your Personal Information on our Services, please contact shaoxinjiang@gmail.com .
 
 ## Refer a Friend
 
-When you invite others to join Pear Deck or share your User Content via email, you will need to provide us with email addresses for each person that you wish to send your User Content or an invite to.
+When you invite others to join Fancy Foodie or share your User Content via email, you will need to provide us with email addresses for each person that you wish to send your User Content or an invite to.
 
 ## Usage Data
 
@@ -56,15 +56,15 @@ In addition, when you use our Services, the following types of information may a
 
 ## Cookies and Web beacons
 
-Pear Deck also uses "cookies" to collect information and improve our Services. A cookie is a small data file that we transfer to your Device. We may use “persistent cookies” to save your registration ID and login password for future logins to our Services. We may use “session ID cookies” to enable certain features of our Services, to better understand how you interact with our Services and to monitor aggregate usage and web traffic routing on our Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services.
+Fancy Foodie also uses "cookies" to collect information and improve our Services. A cookie is a small data file that we transfer to your Device. We may use “persistent cookies” to save your registration ID and login password for future logins to our Services. We may use “session ID cookies” to enable certain features of our Services, to better understand how you interact with our Services and to monitor aggregate usage and web traffic routing on our Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services.
 
 We also use Web beacons, also called web bugs to collect information and improve our Services. A Web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site or in an email.
 
-We do not use cookies or Web beacons to collect Personal Information nor do we collect precise geographic location.  However, some Devices automatically log location information in photos and videos recorded by that Device. If you upload any User Content from a Device that does so, .you agree that we may use this information to optimize your experience. If you do not wish to share User Content embedded with your geo-location information with us, please do not upload them. If you don’t want to store location data in your User Content, please consult the documentation for your Device to turn off that feature.
+We do not use cookies or Web beacons to collect Personal Information nor do we collect precise geographic location.  However, some Devices automatically log location information in photos and videos recorded by that Device. If you upload any User Content from a Device that does so, you agree that we may use this information to optimize your experience. If you do not wish to share User Content embedded with your geo-location information with us, please do not upload them. If you don’t want to store location data in your User Content, please consult the documentation for your Device to turn off that feature.
 
 ## Analytics
 
-Pear Deck also collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Intercom.io to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). The [Intercom.io Privacy Policy](http://docs.intercom.io/privacy) is also available.
+Fancy Foodie also collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Intercom.io to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). 
 
 ## HOW WE USE YOUR INFORMATION
 
@@ -86,9 +86,9 @@ We use your information:
 
 If you submit Personal Information to us, we will only use it for the purpose you requested or for which it is collected or for any purpose you subsequently authorize. 
 
-You grant Pear Deck an irrevocable, perpetual, royalty-free right and license to use the anonymous information we collect in any way that does not otherwise conflict with this policy.
+You grant Fancy Foodie an irrevocable, perpetual, royalty-free right and license to use the anonymous information we collect in any way that does not otherwise conflict with this policy.
 
-Pear Deck does not access your contact information or address book within your mobile device.  Nor does Pear Deck have any access to any of the personal information or credit card information that you have provided to Apple or Google to register for their services.
+Fancy Foodie does not access your contact information or address book within your mobile device.  Nor does Fancy Foodie have any access to any of the personal information or credit card information that you have provided to Apple or Google to register for their services.
 
 ## SPECIAL CONSIDERATION FOR PAYMENT INFORMATION
 
@@ -96,85 +96,55 @@ If you provide credit card or debit card information to complete a purchase, it 
 
 Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. **PLEASE READ THE PRIVACY POLICY ON THE WEBSITE OF ANY PAYMENT PROCESSOR THAT YOU ARE DIRECTED TO REGARDING THE USE, STORAGE AND PROTECTION OF YOUR CREDIT CARD INFORMATION BEFORE SUBMITTING ANY CREDIT CARD INFORMATION.**
 
-All information that you provide to us or our third party payment processor must be accurate, current and complete.  In the event of a dispute, we may issue you with a provisional credit to your card until the dispute is resolved.  If we issue a provisional credit and the dispute is resolved and the charges were correct, we shall recharge your debit or credit card to reverse this provisional credit. You expressly consent to this reversal if you falsely or incorrectly dispute a charge.  If you wish to dispute a charge by mail or telephone please contact us at info@PearDeck.com.  If we elect at any time to charge any convenience fee for making a payment via a debit card, credit card, or electronic check, these fees will be stated at the time of payment before you finalize your charge.  In the event of an unauthorized charge using a debit card or electronic check, please consult your bank’s rules regarding refunds and reversals.  Pear Deck complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
+All information that you provide to us or our third party payment processor must be accurate, current and complete.  In the event of a dispute, we may issue you with a provisional credit to your card until the dispute is resolved.  If we issue a provisional credit and the dispute is resolved and the charges were correct, we shall recharge your debit or credit card to reverse this provisional credit. You expressly consent to this reversal if you falsely or incorrectly dispute a charge.  If you wish to dispute a charge by mail or telephone please contact us at info@PearDeck.com.  If we elect at any time to charge any convenience fee for making a payment via a debit card, credit card, or electronic check, these fees will be stated at the time of payment before you finalize your charge.  In the event of an unauthorized charge using a debit card or electronic check, please consult your bank’s rules regarding refunds and reversals.  Fancy Foodie complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
 
 ## INFORMATION SHARING AND DISCLOSURE
 
-Further, you agree that Pear Deck may transfer the anonymous information we collect in the event of any corporate restructuring or any sale, assignment or transfer of substantially all of its rights in the Apps.
+Further, you agree that Fancy Foodie may transfer the anonymous information we collect in the event of any corporate restructuring or any sale, assignment or transfer of substantially all of its rights in the Apps.
 
 We may disclose information about you if we become subject to a subpoena or court order, or if we are otherwise legally required to disclose information.  We may also use and disclose information about you to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.   If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction, but we will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or User Content, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
 
-Pear Deck will display your Personal Information in your profile page and elsewhere on our Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want others to know about you. Please consider carefully what information you disclose in your profile page and your desired level of anonymity. You can review and revise your profile information at any time. We do not sell your personal information to third parties. We may also share or disclose your information with your consent, for example if you use a third party application to access your account. Through certain features of our Services, you may also have the ability to make some of your information public. Public information may be broadly and quickly disseminated.
+Fancy Foodie will display your Personal Information in your profile page and elsewhere on our Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want others to know about you. Please consider carefully what information you disclose in your profile page and your desired level of anonymity. You can review and revise your profile information at any time. We do not sell your personal information to third parties. We may also share or disclose your information with your consent, for example if you use a third party application to access your account. Through certain features of our Services, you may also have the ability to make some of your information public. Public information may be broadly and quickly disseminated.
 
-**Service Providers, Business Partners and Others**.   Pear Deck may use certain trusted third party companies and individuals to help us provide, analyze, and improve our Services (including but not limited to data storage, maintenance services, database management, web analytics, email communication, payment processing, and improvement of the Service’s features). These third parties may have access to your information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. As of the date this policy went into effect, we use:
+**Service Providers, Business Partners and Others**.   Fancy Foodie may use certain trusted third party companies and individuals to help us provide, analyze, and improve our Services (including but not limited to data storage, maintenance services, database management, web analytics, email communication, payment processing, and improvement of the Service’s features). These third parties may have access to your information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. As of the date this policy went into effect, we use:
 
 Service Providers used for business functions:
 
 * MailChimp’s marketing platform to perform personalized email communication
 
-* Salesforce CRM’s customer relationship software to manage contact information, history, and usage data shared securely from Intercom.io
+* Google Analytics to collect and report usage data
 
-* Google Analytics and Intercom.io to collect and report usage data
-
-* Stripe and ChartMogul to collect and report subscription data for premium users
+* Stripe to collect and report subscription data for premium users
 
 Service Providers used for the technical infrastructure of our application:
 
-* Amazon’s Web Services (AWS) to store some of your information (for example, your User Content)
-
-* Google's Cloud Platform and Google Drive to store some of your information (for example, your User Content.  Teachers may also export student responses to a a Google Spreadsheet) 
+* Heroku to store some of your information (for example, your User Content)
 
 * Firebase.io to store some of your information (for example, real time student responses)
 
-* Compose.io to store some of your information (for example, user profiles)
 
-* ConvertAPI processing service to convert existing PowerPoint files to Pear Deck format
+**Third-Party Applications**.   Fancy Foodie may share your Information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
-**Third-Party Applications**.   Pear Deck may share your Information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
-
-**Non-private or Non-Personal Information**.   Pear Deck may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Services. However, in such cases, your usage data is aggregated with the usage data of others and does not identify you individually.
+**Non-private or Non-Personal Information**.   Fancy Foodie may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Services. However, in such cases, your usage data is aggregated with the usage data of others and does not identify you individually.
 
 ## CHANGING OR DELETING YOUR INFORMATION
 
-To delete your account, please remove the Pear Deck application from your [Google Drive Permissions] (https://security.google.com/settings/security/permissions?pli=1)
+To delete your account, please remove the Fancy Foodie application from your Phone or contact shaoxinjiang@gmail.com 
 
-## Pear Deck ENTERPRISE ACCOUNT
-
-If you have a Pear Deck Enterprise account, your Administrator may be able to:
-
-* access information in and about your Pear Deck Enterprise account;
-
-* disclose, restrict, or access information that you have provided or that is made available to you when using your Pear Deck Enterprise account; and
-
-* control how your Pear Deck Enterprise account may be accessed or deleted.
-
-Please refer to your organization's policies if you have questions about your Administrator's rights.
 
 ## LINKED SITES
 
-Our Services may contain links to other Web sites whose privacy practices may differ from those of Pear Deck. If you submit personal Information to any of those sites, your Information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Services may contain links to other Web sites whose privacy practices may differ from those of Fancy Foodie. If you submit personal Information to any of those sites, your Information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 ## SECURITY
 
-Pear Deck takes reasonable steps to help protect Information against loss, misuse, unauthorized access or disclosure.  **Pear Deck expressly disclaims any representation or warranty, whether express or implied, with respect to offering any definitive promise of security in connection with The anonymous information we collect.**
-
-## OUR POLICY TOWARD CHILDREN
-
-We are required under the Children’s Online Privacy Protection Act (COPPA), with limited exceptions, to obtain verifiable parental consent in order to collect, use, or disclose personal information from Children. COPPA allows the Child’s School to obtain consent for the online collection of personal information from Children who are students of the School.
-
-If a Child wants to use our Service, he/she must first obtain an Account from his/her School. Before an Account is provided to a School, we require that the School (on behalf of the Parent) (a) consent to the collection, use and disclosure of personal information of the Child, through the Service, in accordance with this Children’s Privacy Policy, and (b) agree that the Child’s online activities are subject to the Terms of Service.
-
-As required under COPPA, we allow Parents certain choices regarding the personal information submitted by their Children Parents should make any permitted requests with the School and have the School, as the Parent’s agent, pass on those requests to Company. We may rely on the instructions that we receive from the School that we reasonably believe are given by a Child’s Parent to the School. For example, if a representative from the Child’s School contacts us and provides the Account information we request, we may assume that the person calling is acting on behalf of the Child’s Parent.
-
-We provide Parents the following choices with respect to the collection, use, retention and disclosure of Personal Information. A Child’s registration information is always accessible to him/her. A Parent has the right to review her Child’s Personal Information, which the Parent can obtain by contacting her Child’s School. After reviewing the Child’s Personal Information, the Parent may ask us to update or delete the Child’s Personal Information by requesting such changes through the Child’s School. A Parent may prohibit us from sharing a Child’s Personal Information with a third party by requesting such prohibition through the Child’s School. Notwithstanding any such requests, we may continue to share a Child’s Personal Information with third parties for the Internal Purposes and Enforcement Purposes (each as described above).
-
-If a Parent chooses to prohibit any future collection, use or disclosure of the Child’s Personal Information, the Parent may do so by terminating the Child’s Account through the School, and requesting the deletion of the Child’s Personal Information through the School. Upon receiving such request from the Child’s School, we will delete the Child’s Account information from our live databases and all the information and data stored for such Account. Company will not have any liability whatsoever for any termination of the Account or related deletion of the Child’s Personal Information. When we delete Personal Information, it will be deleted from our active databases but may remain in our archives. 
+Fancy Foodie takes reasonable steps to help protect Information against loss, misuse, unauthorized access or disclosure.  **Fancy Foodie expressly disclaims any representation or warranty, whether express or implied, with respect to offering any definitive promise of security in connection with The anonymous information we collect.**
 
 ## YOUR CONSENT
 
-If you reside outside the U.S., the anonymous information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards.  By using the Services and providing Information to Pear Deck, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.
+If you reside outside the U.S., the anonymous information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards.  By using the Services and providing Information to Fancy Foodie, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.
 
 ## CONTACTING US
 
-If you have any questions about this Privacy Policy, please contact us at help@PearDeck.com.
+If you have any questions about this Privacy Policy, please contact us at shaoxinjiang@gmail.com.
 
