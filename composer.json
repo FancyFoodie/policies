@@ -1,0 +1,19 @@
+{
+    "name": "fancyfoodie/policies",
+    "description": "Terms of Service and Privacy Policy Documents",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xinjiang Shao",
+            "email": "shaoxinjiang@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "cebe/markdown": "~1.0.1"
+    },
+    "scripts": {
+        "check-markdown": "markdown --flavor=gfm privacy-policy.md && markdown --flavor=gfm terms-of-service.md"
+    }
+}
