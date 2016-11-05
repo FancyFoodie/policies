@@ -15,5 +15,6 @@
     },
     "scripts": {
         "check-markdown": "markdown --flavor=gfm privacy-policy.md && markdown --flavor=gfm terms-of-service.md"
-    }
+    },
+    "minimum-stability": "dev"
 }
