@@ -4,13 +4,13 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "af6fe39ee9f8060a6f5d6aa73e859abb",
-    "content-hash": "f7f23952205cbcd3b0089ea47e145a03",
+    "hash": "248e209358de201585a8a7693a734a83",
+    "content-hash": "4f779007fd8f40d88dff0b8d69bcba6d",
     "packages": [],
     "packages-dev": [
         {
             "name": "cebe/markdown",
-            "version": "1.0.2",
+            "version": "1.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cebe/markdown.git",
@@ -70,7 +70,7 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
